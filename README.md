@@ -1,8 +1,6 @@
 <img src='./Banner/Blue Minimalist Profile LinkedIn Banner.png' alt='banner'></img>
+<img src="https://i.ibb.co/bmVydvx/Green-Modern-Online-Business-Webinar-Banner.png" />
 
-<p align="center">
-    <p>Hi , I am Aditya Paul</p>
-</p>
 ## :chart_with_upwards_trend: Current Stats of my profile
 
 <br />
