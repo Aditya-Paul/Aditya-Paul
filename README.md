@@ -3,10 +3,13 @@
 <!-- about me -->
 <h1 align="center" >Hi 👋 I,m Aditya Paul </h1>
 <h3 align="center" >A passionate web developer.</h3>
-<h1  align="left" >📫 Reach Me</h1>
+
+<h1  align="left" >📫 Reach Me Through</h1>
 <p align="center">
-  <a href="adityapaul.dibbo25@gmail.com">
-<img src="https://i.ibb.co/37FTNxp/gmail-new-icon5198.jpg" />
+    <li>Gamil: <a href="adityapaul.dibbo25@gmail.com">adityapaul.dibbo25@gmail.com</li>
+    <li>Facebook: <a href="https://www.facebook.com/aditya.pauldibbo">https://www.facebook.com/aditya.pauldibbo</li>
+    <li>Contact Number: +91 7596866913</li>
+    <li>Whatsapp Contact: +91 7596866913, +88 01930005717</li>
 </a>
 </p>
 
