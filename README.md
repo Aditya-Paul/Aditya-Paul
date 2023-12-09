@@ -1,4 +1,4 @@
-<img src='./Banner/Green Modern Online Business Webinar Banner.png' alt='banner'></img>
+<img src='./Banner/Blue Minimalist Profile LinkedIn Banner.png' alt='banner'></img>
 
 ## Hi i am aditya
 ## :chart_with_upwards_trend: Current Stats
