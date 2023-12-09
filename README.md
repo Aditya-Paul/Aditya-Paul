@@ -13,6 +13,19 @@
 </a>
 </p>
 
+<h1  align="left" >Education</h1>
+<p align="center">
+    <li>Degree: B.tech (Cse)</li>
+    <li>Institute: Institute of Engineering and Management, Kolkata</li>
+    <li>Status: Complete on 2021</li>
+    <li>Result: 7.28</li>
+    </br>
+    <li>Degree: M.tech (Cse)</li>
+    <li>Institute: Institute of Engineering and Management, Kolkata</li>
+    <li>Status: Running from 2023</li>
+</a>
+</p>
+
 
 ## :chart_with_upwards_trend: Current Stats of my profile
 
