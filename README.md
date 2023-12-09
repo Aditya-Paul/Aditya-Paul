@@ -11,7 +11,7 @@
 
 <h1  align="left" >📫 Reach Me Through</h1>
 <p align="center">
-    <li>Gamil: <a href="adityapaul.dibbo25@gmail.com">adityapaul.dibbo25@gmail.com</li>
+    <li>Gmail: <a href="adityapaul.dibbo25@gmail.com">adityapaul.dibbo25@gmail.com</li>
     <li>Facebook: <a href="https://www.facebook.com/aditya.pauldibbo">https://www.facebook.com/aditya.pauldibbo</li>
     <li>Contact Number: +91 7596866913</li>
     <li>Whatsapp Contact: +91 7596866913, +88 01930005717</li>
