@@ -5,10 +5,8 @@
 
 <br />
 <p align="center">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aditya-Paul&theme=cobalt&hide_border=true&border_radius=5&type=png)](https://git.io/streak-stats)
 
 </p>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aditya-Paul&theme=vue-dark)](https://git.io/streak-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aditya-Paul&theme=vue-dark)](https://git.io/streak-stats)
 <!--
