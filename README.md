@@ -10,6 +10,7 @@
 <br />
 
 ## :chart_with_upwards_trend: Myself
+## :profile
 <p align="center">
   <p>I am a motivated individual with a passion for web development, With a focus on both front-end and back-end technologies. I am likely proficient in languages such as HTML, CSS, and JavaScript for creating dynamic and visually appealing user interfaces. Additionally,I have experience with Node and Express,also databases like MongoDB. My goal is to master the entire web development stack, enabling myself build robust and scalable web applications. Continuous learning, staying updated on industry trends, and gaining hands-on experience are likely key aspects of my journey towards becoming a well-rounded professional in the field.</p>
 </p>
