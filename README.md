@@ -33,7 +33,10 @@
 </a>
 </p>
 
-
+## My Experience
+<p align="center">
+  <p>I am a junior full-stack web developer specializing in the MERN stack. My expertise spans front-end development using React, Use plugin like Daisy UI for streamlined UI components. On the back end, my experiancel in Node.js and Express, ensuring server-side functionality. MongoDB serves as your go-to database, reflecting my preference for flexible and scalable data storage.</p>
+</p>
 
 <h1 align="left" >Technology I use</h1>
 <p align="center">
