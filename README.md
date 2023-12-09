@@ -15,11 +15,13 @@
 
 <h1  align="left" >Education</h1>
 <p align="center">
+    <p>Bechelor</p>
     <li>Degree: B.tech (Cse)</li>
     <li>Institute: Institute of Engineering and Management, Kolkata</li>
     <li>Status: Complete on 2021</li>
     <li>Result: 7.28</li>
     </br>
+    <p>Masters</p>
     <li>Degree: M.tech (Cse)</li>
     <li>Institute: Institute of Engineering and Management, Kolkata</li>
     <li>Status: Running from 2023</li>
