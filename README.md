@@ -37,6 +37,7 @@
 </p>
 <br />
 <img height="60" src="./Banner/html5-logo-html-logo-0.png"/>
+
 ## My Aim
 <p align="center">
   <p>I am a motivated individual with a passion for web development, With a focus on both front-end and back-end technologies. I am likely proficient in languages such as HTML, CSS, and JavaScript. Use React to add more dynamic and visually appealing user interfaces. I have experience with Node and Express, as well as databases like MongoDB. My goal is to master the entire web development stack, enabling me to build robust and scalable web applications. Continuous learning, staying updated on industry trends, and gaining hands-on experience are likely key aspects of my journey toward becoming a professional in the web field.</p>
