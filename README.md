@@ -59,13 +59,15 @@
 <img height="60" src="https://i.ibb.co/Xyj3C6m/firebase.png"/>
 <img height="60" src="https://i.ibb.co/XYSTRQq/git.png"/>
 </p>
-<p align="center">
+
 <h1 align="left" >Projects</h1>
-  
-  <h1 align="left" >Projects</h1>
-  <h1 align="left" >Projects</h1>
-  <h1 align="left" >Projects</h1>
+<p align="center">
+  <p>Hmanagement</p>
+  <p>Live: https://hmanagement-990b7.web.app</p>
+  <p>Task: Firebase authentication, User and Admin dashboard, Private and Amdin route, Meal details, Membership for different package, Request for meals, Manage users, responsive layout, Jwt, Stripe Payment system..</p>
+
 </p>
+
 <!--
 **Aditya-Paul/Aditya-Paul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
