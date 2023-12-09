@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src='./Banner/Green Modern Online Business Webinar Banner.png' alt='banner'></img>
 
 <!--
 **Aditya-Paul/Aditya-Paul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
