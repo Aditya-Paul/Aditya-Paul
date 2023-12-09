@@ -62,9 +62,19 @@
 
 <h1 align="left" >Projects</h1>
 <p align="center">
-  <p>Hmanagement</p>
+  <p>1. Hmanagement</p>
   <p>Live: https://hmanagement-990b7.web.app</p>
-  <p>Task: Firebase authentication, User and Admin dashboard, Private and Amdin route, Meal details, Membership for different package, Request for meals, Manage users, responsive layout, Jwt, Stripe Payment system..</p>
+  <p>Task I do: Firebase authentication, User and Admin dashboard, Filter by Meal category, Private and Amdin route, Meal details, Membership for different package, Request for meals, Manage users, Responsive layout, Jwt, Stripe Payment system..</p>
+
+  </br>
+  <p>2. Jobquester</p>
+  <p>Live: https://jocular-salamander-ff3130.netlify.app</p>
+  <p>Task I do: Firebase authentication, Private route for user, Job details, Responsive layout, User can can apply on others job also user can post any job, User can see how many job he/she already applied, User can update job criteria, User can download pdf on Applied job route,Jwt.. </p>
+
+</br>
+  <p>3. CarNation</p>
+  <p>Live: https://benevolent-nasturtium-518b92.netlify.app/</p>
+  <p>Task I do: Firebase authentication, Private route for user, Car details, Responsive layout, Add to cart , User can update his/her car details, my cart where user can see how much car he want to buy..</p>
 
 </p>
 
