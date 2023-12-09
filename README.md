@@ -45,7 +45,7 @@
 
 <h1  align="left" >Technology I use</h1>
 <p align="center">
-<img height="60" src="./Banner/html5-logo-html-logo-0.png"/>
+<img height="60" src="https://i.ibb.co/J2Xwx1x/html5-logo-opencode-css-8.png"/>
 <img height="60" src="./Banner/html5-logo-opencode-css-8.png"/>
 <img height="60" src="./Banner/bootsssssssss.png"/>
 <img height="60" src="./Banner/ta choto.webp"/>
