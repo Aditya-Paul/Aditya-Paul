@@ -43,20 +43,28 @@
   <p>I am a motivated individual with a passion for web development, With a focus on both front-end and back-end technologies. I am likely proficient in languages such as HTML, CSS, and JavaScript. Use React to add more dynamic and visually appealing user interfaces. I have experience with Node and Express, as well as databases like MongoDB. My goal is to master the entire web development stack, enabling me to build robust and scalable web applications. Continuous learning, staying updated on industry trends, and gaining hands-on experience are likely key aspects of my journey toward becoming a professional in the web field.</p>
 </p>
 
-<h1  align="left" >Technology I use</h1>
+<h1 align="left" >Technology I use</h1>
 <p align="center">
 <img height="60" src="https://i.ibb.co/TH483bt/html5-logo-html-logo-0.png"/>
 <img height="60" src="https://i.ibb.co/J2Xwx1x/html5-logo-opencode-css-8.png"/>
 <img height="60" src="https://i.ibb.co/vzsbXYK/boots.jpg"/>
 <img height="60" src="https://i.ibb.co/dcvyp95/ta-choto.webp"/>
+<img height="60" src="https://i.ibb.co/pLhXD5r/ffffffffff.png"/>
 <img height="60" src="https://i.ibb.co/3WjkjcV/javascript.png"/>
 <img height="60" src="https://i.ibb.co/Y0VzS5P/react.webp"/>
 <img height="60" src="https://i.ibb.co/z4G0XXn/node.png"/>
 <img height="60" src="https://i.ibb.co/Yy4kyLp/icons8-express-js-50.png"/>
 <img height="60" src="https://i.ibb.co/RPPvc7m/icons8.png"/>
-<img height="60" src="https://i.ibb.co/pLhXD5r/ffffffffff.png"/>
+
 <img height="60" src="https://i.ibb.co/Xyj3C6m/firebase.png"/>
 <img height="60" src="https://i.ibb.co/XYSTRQq/git.png"/>
+</p>
+<p align="center">
+<h1 align="left" >Projects</h1>
+  
+  <h1 align="left" >Projects</h1>
+  <h1 align="left" >Projects</h1>
+  <h1 align="left" >Projects</h1>
 </p>
 <!--
 **Aditya-Paul/Aditya-Paul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
